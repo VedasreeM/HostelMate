@@ -1,0 +1,52 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh; /* Full viewport height */
+  font-family: Arial, sans-serif;
+  text-align: center;
+  width: 100vw;
+}
+
+h2 {
+  font-size: 2rem;
+  margin-bottom: 20px;
+  color: #f0ecec;
+}
+
+.stars {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.selected {
+  color: gold;
+}
+
+.unselected {
+  color: gray;
+}
+
+p {
+  font-size: 1.2rem;
+  margin-top: 10px;
+  color: #444;
+}
+
+button {
+  font-size: 1rem;
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease-in-out;
+   width: 100%;
+}
+
+button:hover {
+  background-color: #0056b3;
+}

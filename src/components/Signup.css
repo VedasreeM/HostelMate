@@ -1,0 +1,82 @@
+/* Container for the entire form */
+.signup-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    font-family: Arial, sans-serif;
+    width: 100vw;
+  }
+  
+  /* Header for the signup page */
+  .signup-container h1 {
+    color: #f6f0f0;
+    margin-bottom: 20px;
+  }
+  
+  /* The signup form */
+  .signup-form {
+    width: 300px;
+    padding: 20px;
+    background: #ffffff;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+  }
+  
+  /* Input fields */
+  .signup-form input {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    font-size: 14px;
+  }
+  
+  /* Button styling */
+  .signup-form button {
+    width: 100%;
+    padding: 10px;
+    margin-top: 10px;
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  /* Hover effect for button */
+  .signup-form button:hover {
+    background-color: #45a049;
+  }
+  
+  /* Error messages */
+  .error-message {
+    color: red;
+    font-size: 12px;
+    margin-top: -5px;
+  }
+  
+  /* For alignment of labels */
+  .signup-form label {
+    font-size: 14px;
+    color: #333;
+    margin-bottom: 5px;
+    display: block;
+  }
+  
+  /* Link for login */
+  .login-link {
+    text-align: center;
+    margin-top: 15px;
+    font-size: 14px;
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  .login-link:hover {
+    text-decoration: underline;
+  }
+  
