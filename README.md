@@ -68,18 +68,18 @@ npm start
 
 **Screenshots**
 
-![Screenshot1](path_to_screenshot1)  
+![Screenshot1](public/images/login)  
 *Login page of HostelMate where users can log in or sign up.*
 
-![Screenshot2](path_to_screenshot2)  
+![Screenshot2]public/images/dashboard)  
 *Dashboard containing key functionalities such as menu, mess cut, meal preferences, and feedback.*
 
-![Screenshot3](path_to_screenshot3)  
-*Meal preference selection with Veg, Non-Veg, and Egg options.*
+![Screenshot3](public/images/feedback)  
+*Feedback and rating page allowing users to provide their opinions and rate their experience.*
 
 **Diagrams**
 
-![Workflow](path_to_workflow_diagram)  
+![Workflow](public/images/HostelMate_Workflow)  
 *Workflow of the HostelMate system from user authentication to dashboard navigation.*
 
 ## Project Demo
