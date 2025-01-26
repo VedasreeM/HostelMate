@@ -90,7 +90,7 @@ npm start
 
 **Video**
 
-[![Demo Video](https://youtu.be/BSIcxKaWgsM)](YOUR_DEMO_VIDEO_LINK)
+[Demo Video](https://youtu.be/BSIcxKaWgsM)
 *This video demonstrates HostelMate's features, including login, meal preferences, and feedback submission.*
 
 ## Team Contributions
