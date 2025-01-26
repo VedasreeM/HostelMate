@@ -71,7 +71,7 @@ npm start
 ![Screenshot1](public/images/login.png)  
 *Login page of HostelMate where users can log in or sign up.*
 
-![Screenshot2]public/images/dashboard)  
+![Screenshot2]public/images/dashboard.png)  
 *Dashboard containing key functionalities such as menu, mess cut, meal preferences, and feedback.*
 
 ![Screenshot3](public/images/feedback.png)  
