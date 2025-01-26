@@ -84,7 +84,7 @@ npm start
 
 **Build Photos**
 
-![Team](public/images/building.png)
+![Team](public/images/building.jpg)
 
 ## Project Demo
 
