@@ -11,7 +11,7 @@
 - Member 3: Rayhana S - NSS College of Engineering Palakkad
 
 **Hosted Project Link**  
-[https://hostel-mate-iota.vercel.app/]
+[Click Here!](https://hostel-mate-iota.vercel.app/)
 
 ## Project Description
 
@@ -92,6 +92,7 @@ npm start
 **Video**
 
 [Demo Video](https://youtu.be/BSIcxKaWgsM)
+
 *This video demonstrates HostelMate's features, including login, meal preferences, and feedback submission.*
 *Spoiler: It's awesome!*
 
