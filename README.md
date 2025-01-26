@@ -90,7 +90,7 @@ npm start
 
 **Video**
 
-[Add your demo video link here]
+[[Add your demo video link here](https://hostel-mate-iota.vercel.app/)]
 *This video demonstrates HostelMate's features, including login, meal preferences, and feedback submission.*
 
 ## Team Contributions
