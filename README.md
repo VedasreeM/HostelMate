@@ -44,7 +44,7 @@ HostelMate provides a digital solution to efficiently handle hostel-related task
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/HostelMate.git
+git clone https://github.com/AnjanaS2004/HostelMate.git
 
 # Install dependencies
 cd HostelMate
