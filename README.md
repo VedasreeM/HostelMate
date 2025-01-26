@@ -1,4 +1,4 @@
-# HostelMate 🎯
+# HostelMate ✨
 
 ## Basic Details
 
@@ -6,9 +6,9 @@
 
 **Team Members:**
 
-- Member 1: [Anjana S] - [NSS College of Engineering Palakkad]
-- Member 2: [Vedasree M] - [NSS College of Engineering Palakkad]
-- Member 3: [Rayhana S] - [NSS College of Engineering Palakkad]
+- Member 1: Anjana S - NSS College of Engineering Palakkad
+- Member 2: Vedasree M - NSS College of Engineering Palakkad
+- Member 3: Rayhana S - NSS College of Engineering Palakkad
 
 **Hosted Project Link**  
 [mention your project hosted project link here]
@@ -32,9 +32,9 @@ HostelMate provides a digital solution to efficiently handle hostel-related task
 **For Software:**
 
 - **Languages used**: HTML, CSS, JavaScript, Python
-- **Frameworks used**: React, Django
-- **Libraries used**:  React Router
-- **Tools used**: GitHub, VSCode
+- **Frameworks used**: React.js, Django,React Router
+- **Libraries used**: React , React Router DOM
+- **Tools used**: GitHub, VSCode, Git
 
 ## Implementation
 
