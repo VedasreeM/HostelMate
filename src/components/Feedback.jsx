@@ -1,13 +1,17 @@
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 import "./Feedback.css";
 
 const Feedback = () => {
-  const [rating, setRating] = useState(0);
-  const [suggestion, setSuggestion] = useState("");
+  const [rating, setRating] = useState(Number(localStorage.getItem("rating")) || 0);
+  const [suggestion, setSuggestion] = useState(localStorage.getItem("suggestion") || "");
 
   const handleSubmit = (e) => {
     e.preventDefault();
     alert(`Feedback submitted with rating: ${rating} stars\nSuggestion: ${suggestion}`);
+
+    // Save to localStorage
+    localStorage.setItem("rating", rating);
+    localStorage.setItem("suggestion", suggestion);
   };
 
   return (
