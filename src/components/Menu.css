@@ -1,13 +1,21 @@
 .menu-container {
-    padding: 20px;
-    width: 100vw;
-  }
-  
-  .menu-day {
-    margin-bottom: 20px;
-    border: 1px solid #2e3061;
-    padding: 10px;
-    border-radius: 5px;
-    
-  }
-  
+  /* max-width: 600px; */
+  margin: 0 auto;  /* Centers the container horizontally */
+  padding: 20px;
+  text-align: center;  /* Centers text inside the container */
+  overflow-y: auto;
+  max-height: 100vh;
+  width: 100vw;
+}
+
+.menu-day {
+  margin-bottom: 10px;
+  border: 1px solid #2e3061;
+  padding: 10px;
+  border-radius: 5px;
+  width: 100%;
+  max-width: 400px;  /* Restrict width and center within container */
+  margin-left: auto; /* Centers the div */
+  margin-right: auto; /* Centers the div */
+
+}
