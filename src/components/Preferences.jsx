@@ -1,13 +1,15 @@
-// src/components/Preferences.js
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 import "./Preferences.css";
 
 const Preferences = () => {
-  const [preference, setPreference] = useState("");
+  const [preference, setPreference] = useState(localStorage.getItem("preference") || "");
 
   const handleSubmit = (e) => {
     e.preventDefault();
     alert(`Preference saved: ${preference}`);
+
+    // Save to localStorage
+    localStorage.setItem("preference", preference);
   };
 
   return (

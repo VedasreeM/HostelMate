@@ -10,16 +10,14 @@ const Dashboard = () => {
     <div className="dashboard-container">
       <header>
         <h1>HostelMate</h1>
-        <div className="profile-icon" onClick={() => alert("Profile clicked!")}>
-          👤
-        </div>
+        
       </header>
       <div className="dashboard-buttons">
         <div>
           <button onClick={() => navigate("/menu")}>Menu</button>
         </div>
         <div>
-          <button onClick={() => navigate("/messcut")}>Messcut or Not</button>
+          <button onClick={() => navigate("/messcut")}>Messcut</button>
         </div>
         <div>
           <button onClick={() => navigate("/preferences")}>Meal Preferences</button>

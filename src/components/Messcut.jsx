@@ -1,19 +1,23 @@
-// src/components/Messcut.js
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 import "./Messcut.css";
 
 const Messcut = () => {
-  const [isMesscut, setIsMesscut] = useState(false);
-  const [fromDate, setFromDate] = useState("");
-  const [toDate, setToDate] = useState("");
+  const [isMesscut, setIsMesscut] = useState(localStorage.getItem("isMesscut") === "true" || false);
+  const [fromDate, setFromDate] = useState(localStorage.getItem("fromDate") || "");
+  const [toDate, setToDate] = useState(localStorage.getItem("toDate") || "");
 
   const handleSubmit = (e) => {
     e.preventDefault();
     if (isMesscut) {
       alert(`Messcut applied from ${fromDate} to ${toDate}`);
+
     } else {
       alert("No messcut applied.");
     }
+    // Save to localStorage
+    localStorage.setItem("isMesscut", isMesscut);
+    localStorage.setItem("fromDate", fromDate);
+    localStorage.setItem("toDate", toDate);
   };
 
   return (
