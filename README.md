@@ -31,8 +31,8 @@ HostelMate provides a digital solution to efficiently handle hostel-related task
 
 **For Software:**
 
-- **Languages used**: HTML, CSS, JavaScript, Python
-- **Frameworks used**: React.js, Django,React Router
+- **Languages used**: HTML, CSS, JavaScript
+- **Frameworks used**: React.js,React Router
 - **Libraries used**: React , React Router DOM
 - **Tools used**: GitHub, VSCode, Git
 
