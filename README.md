@@ -11,19 +11,19 @@
 - Member 3: Rayhana S - NSS College of Engineering Palakkad
 
 **Hosted Project Link**  
-[mention your project hosted project link here]
+[https://hostel-mate-iota.vercel.app/]
 
 ## Project Description
 
-HostelMate is an all-in-one hostel management platform designed to simplify the day-to-day activities of hostel residents. It offers seamless login and signup features, meal management, mess cut requests, and personalized food preferences, ensuring a hassle-free hostel experience.
+Welcome to HostelMate, your ultimate hostel BFF! Whether it’s meal preferences, mess cut requests, or daily hostel woes, we've got your back. Our all-in-one platform simplifies everything, so you can spend more time chilling and less time worrying.
 
 ## The Problem Statement
 
-Managing hostel activities manually can be cumbersome, leading to miscommunication, meal mismanagement, and lack of streamlined feedback mechanisms. Hostel residents often face issues in meal preferences, mess cut requests, and daily hostel services.
+Let’s face it – managing hostel life manually is like solving a Rubik's cube blindfolded. From meal confusion to missed feedback, things can get messy (literally!). Residents often struggle with miscommunication and a lack of streamlined processes.
 
 ## The Solution
 
-HostelMate provides a digital solution to efficiently handle hostel-related tasks. With easy-to-use features like login/signup, meal preference selection, mess cut requests, and feedback submission, it offers a one-stop solution to enhance the hostel experience.
+Say hello to HostelMate, your personal hostel assistant! With cool features like login/signup (yes, no more paperwork!), meal preference selection, mess cut requests, and feedback submissions, life just got a whole lot easier.
 
 ## Technical Details
 
@@ -31,7 +31,7 @@ HostelMate provides a digital solution to efficiently handle hostel-related task
 
 **For Software:**
 
-- **Languages used**: HTML, CSS, JavaScript, Python
+- **Languages used**: HTML, CSS, JavaScript
 - **Frameworks used**: React.js, Django,React Router
 - **Libraries used**: React , React Router DOM
 - **Tools used**: GitHub, VSCode, Git
@@ -69,22 +69,23 @@ npm start
 **Screenshots**
 
 ![Screenshot1](public/images/login.png)  
-*Login page of HostelMate where users can log in or sign up.*
+*Welcome aboard! The login page awaits..*
 
 ![Screenshot2](public/images/dashboard.png)  
-*Dashboard containing key functionalities such as menu, mess cut, meal preferences, and feedback.*
+*Your personal control center, a.k.a the dashboard.*
 
 ![Screenshot3](public/images/feedback.png)  
-*Feedback and rating page allowing users to provide their opinions and rate their experience.*
+*Tell us what you love (or don't) with our feedback page!*
 
 **Diagrams**
 
 ![Workflow](public/images/HostelMate_Workflow.png)  
-*Workflow of the HostelMate system from user authentication to dashboard navigation.*
+*Behold, the HostelMate magic map!*
 
 **Build Photos**
 
 ![Team](public/images/building.jpg)
+*Work in progress...and some caffeine!*
 
 ## Project Demo
 
@@ -92,6 +93,7 @@ npm start
 
 [Demo Video](https://youtu.be/BSIcxKaWgsM)
 *This video demonstrates HostelMate's features, including login, meal preferences, and feedback submission.*
+*Spoiler: It's awesome!*
 
 ## Team Contributions
 
