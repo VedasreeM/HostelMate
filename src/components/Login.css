@@ -35,4 +35,13 @@
   body{
     align-items: center;
   }
+  body {
+    background-image: url('../assets/background.jpg'); /* Adjust the path */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+    margin: 0;
+}
+
   
