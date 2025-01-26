@@ -82,6 +82,10 @@ npm start
 ![Workflow](public/images/HostelMate_Workflow.png)  
 *Workflow of the HostelMate system from user authentication to dashboard navigation.*
 
+**Build Photos**
+
+![Team](public/images/building.png)
+
 ## Project Demo
 
 **Video**
@@ -89,15 +93,11 @@ npm start
 [Add your demo video link here]  
 *This video demonstrates HostelMate's features, including login, meal preferences, and feedback submission.*
 
-**Additional Demos**
-
-[Add any extra demo materials/links here]
-
 ## Team Contributions
 
-- **[Name 1]**: Developed the frontend UI using React and integrated routing.
-- **[Name 2]**: Built the backend API with Django for authentication and data management.
-- **[Name 3]**: Designed the database schema and implemented feedback functionality.
+- **[Anjana S]**: Developed the frontend UI using React and integrated routing.
+- **[Vedasree M]**: Built the backend API with Django for authentication and data management.
+- **[Rayhana S]**: Designed the database schema and implemented feedback functionality.
 
 Made with ❤️ at TinkerHub
 
