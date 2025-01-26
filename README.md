@@ -90,14 +90,14 @@ npm start
 
 **Video**
 
-[Add your demo video link here]  
+[Add your demo video link here]
 *This video demonstrates HostelMate's features, including login, meal preferences, and feedback submission.*
 
 ## Team Contributions
 
-- **[Anjana S]**: Developed the frontend UI using React and integrated routing.
-- **[Vedasree M]**: Built the backend API with Django for authentication and data management.
-- **[Rayhana S]**: Designed the database schema and implemented feedback functionality.
+- **Anjana S**: Developed the frontend UI using React and integrated routing.
+- **Vedasree M**: Built the backend API with Django for authentication and data management.
+- **Rayhana S**: Designed the database schema and implemented feedback functionality.
 
 Made with ❤️ at TinkerHub
 
