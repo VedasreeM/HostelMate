@@ -99,7 +99,7 @@ npm start
 ## Team Contributions
 
 - **Anjana S**: Developed the frontend UI using React and integrated routing.
-- **Vedasree M**: Built the backend API with Django for authentication and data management.
+- **Vedasree M**: Implemented UI components and improved user interactions.
 - **Rayhana S**: Designed the database schema and implemented feedback functionality.
 
 Made with ❤️ at TinkerHub
