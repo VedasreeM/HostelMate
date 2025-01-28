@@ -32,7 +32,7 @@ Say hello to HostelMate, your personal hostel assistant! With cool features like
 **For Software:**
 
 - **Languages used**: HTML, CSS, JavaScript
-- **Frameworks used**: React.js, Django,React Router
+- **Frameworks used**: React.js,React Router
 - **Libraries used**: React , React Router DOM
 - **Tools used**: GitHub, VSCode, Git
 
